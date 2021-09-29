@@ -1,0 +1,65 @@
+print('Занятие 1')
+
+print()
+print('Задача 1')
+print ("Курс Основы программирования начался")
+
+
+print()
+print('Задача 2')
+print(16823 * 12302 % 3092)
+
+
+print()
+print('Задача 3')
+age = 10
+if age >= 16: print("Поздравляем вы поступили в ВГУИТ") 
+else: print ("Сначала нужно окончить школу!")
+
+
+print()
+print('Задача 3a')
+print(age>0 and age <75)
+
+
+print()
+print('Задача 3b')
+name= "Бальтазавр"
+print(name != "Иван")
+
+
+print()
+print('Задача 3c')
+if age < 16: print('Тебе учиться ещё',16-age,'лет')
+
+
+print()
+print('Задача 4')
+second= 23452356
+days= second /60/60//24
+hours=second //60//60%24
+minutes = second//60%60
+sec=second%60
+print('Дни:',days,'Часы:',hours,'Минуты:',minutes,'Секунды:',sec)
+
+
+print()
+print('Задача 5')
+import random
+n=random.randint(1,1000)
+print('N=',n)
+print(n + n**2 + n**3 + n**4 + n**5)
+
+
+print()
+print('Задача 6')
+x=505
+y=494
+x,y=y,x
+print('x=',x,'y=',y)
+
+
+print()
+print('Задача 7')
+number=24
+print(number % 2 == 0)
