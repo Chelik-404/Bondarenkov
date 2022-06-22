@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Задание {
+public class Task4 {
     public static void main (String[] args) {
 
         int[][] arr1 = new int[5][5];

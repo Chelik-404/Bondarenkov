@@ -1,4 +1,4 @@
-public class Задание {
+public class Task1 {
     public static void main(String[] args) {
 
 int ch[] = new int[10] ;

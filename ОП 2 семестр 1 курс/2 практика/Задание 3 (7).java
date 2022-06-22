@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Nameless {
+public class Task3 {
     public static void main (String[] args) {
 
         int ir = 1 + new Random().nextInt(10);

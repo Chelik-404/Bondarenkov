@@ -1,5 +1,5 @@
 import java.util.*;
-public class Задание {
+public class Task2 {
     public static void main(String[] args) {
 
         int k = 0;
